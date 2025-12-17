@@ -1,6 +1,6 @@
 Hi, I'm Khushbu Rawat 👋
-🎓 Final Year BCA Student | Aspiring Data Scientist / ML Engineer
-📍 India | 💼 Open to internships & full‑time roles in Data Science, Machine Learning, GenAI
+🎓 Final Year BCA Student | Aspiring Data Scientist / ML Engineer📍| 
+💼 Open to internships & full‑time roles in Data Science, Machine Learning, GenAI
 
 🚀 About Me.....
 
